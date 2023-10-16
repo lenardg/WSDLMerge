@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSDLMerge", "WSDLMerge\WSDLMerge.csproj", "{C4D68982-0139-4823-A4BC-0CC8458D822E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSDLMerge", "WSDLMerge\WSDLMerge.csproj", "{C4D68982-0139-4823-A4BC-0CC8458D822E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
